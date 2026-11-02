@@ -1,7 +1,7 @@
 # No Crusty Vibes — Website Project
 
 ## Student Information
-- **Subject:** BUIS5111MM
+- **Subject:** WEB DEVELOPMENT
 - **Student:** Mbali Dhladhla
 - **Student Number:** 10459836
 - **Submission:** Individual (no group)
